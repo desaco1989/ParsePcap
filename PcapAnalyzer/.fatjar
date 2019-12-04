@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 19 22:18:24 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\johnnie\\Desktop\\PcapAnalyzer.jar
+manifest.mergeall=true
+manifest.mainclass=com.johnnie.pcapanalyzer.PcapAnalyzer
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
